@@ -1,6 +1,6 @@
 {
-  "name": "mock-express-response",
-  "version": "0.2.2",
+  "name": "@akryum/mock-express-response",
+  "version": "0.2.3",
   "description": "Nodejs library to mock express http response",
   "keywords": [
     "express",
@@ -41,6 +41,9 @@
       "github": "https://github.com/lykmapipo"
     }
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "chai": "^4.1.2",
     "ejs": "^2.5.7",
